@@ -1,0 +1,22 @@
+.header-top nav{
+  direction: rtl;
+  letter-spacing: -0.027em;
+  text-transform: capitalize;
+  font-family: Poppins, sans-serif;
+  font-size: 0.8rem;
+}
+span.flags {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+li.nav-item.slash {
+  margin-right: -13px !important;
+  margin-left: -13px !important;
+}
+.dropdown-item {
+    font-size: 0.8rem;
+}
+.header-middle nav{
+
+}
+
